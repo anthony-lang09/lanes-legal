@@ -1,0 +1,8 @@
+# GitHub Pages settings for the public lanes-legal repo.
+# Fill these three in before publishing (see STATUS.md > Needs Vashiiq).
+title: Lanes legal
+operator: "OPERATOR_LEGAL_NAME"          # e.g. "Aero Operations LLC" or a person's legal name
+contact_email: "CONTACT_EMAIL"           # a support inbox people can write to
+governing_law: "GOVERNING_STATE"         # e.g. "the State of Texas, USA"
+last_updated: "October 27, 2026"
+theme: jekyll-theme-primer
